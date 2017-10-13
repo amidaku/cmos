@@ -1,4 +1,3 @@
-# 山陰CSIRT情報交換会
 <div style="margin: 2em auto; text-align: center;">
   <img src="/images/cmoslogo.png" style="width: 600px;">
 </div>
