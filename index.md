@@ -1,7 +1,3 @@
-<div style="margin: 2em auto; text-align: center;">
-  <img src="./images/cmoslogo.png" style="width: 600px;">
-</div>
-
 ## 設立趣意
 
 昨今のサイバー攻撃、特に組織を狙った攻撃は、組織的かつ巧妙に実行されています。  
