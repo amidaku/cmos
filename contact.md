@@ -2,4 +2,4 @@
 
 Doorkeeperの問い合わせページからお問い合わせください。
 
-{{ site.email }}
+[Doorkeeper問い合わせフォーム]({{ site.email }})
