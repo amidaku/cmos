@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: 山陰CSIRT情報交換会
 email: https://cmos.doorkeeper.jp/contact/new
-description: >- 
+description: >-
   情報セキュリティやコンピュータのインシデント対応などについて
   話題を共有し、交流を深め、共に学ぶ集まりです。
-public_url: https://cmos.techtalk.jp/
+public_url: https://amidaku.github.io/cmos
