@@ -49,7 +49,7 @@ KASPERSKY 前田 様
 * CSIRT組織であるKLIRRT代表
 
 <div align="center">
-  <img src="./cmos03img/P2020059.jpg" width=600>
+  <img src="/cmos/reports/cmos03img/P2020059.jpg" width=600>
 </div>
 
 ## カスペルスキーについて

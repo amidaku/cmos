@@ -1,5 +1,5 @@
 <div style="margin: 2em auto; text-align: center;">
-  <img src="./images/cmoslogo.png" style="width: 600px;">
+  <img src="/cmos/images/cmoslogo.png" style="width: 600px;">
 </div>
 当会（愛称 CMoS: Csirt Meeting of Sanin）はCSIRT（Computer Security Incident Response Team）やインシデントレスポンス（セキュリティなどのトラブルが発生した際の行動等）についての話題を共有することで、
 
