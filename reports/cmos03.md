@@ -52,6 +52,8 @@ KASPERSKY 前田 様
   <img src="/cmos/reports/cmos03img/P2020059.jpg" width=600>
 </div>
 
+![](/cmos/reports/cmos03img/P2020059.jpg)
+
 ## カスペルスキーについて
 
 * ウィルス対策のソフトを開発・販売
