@@ -2,7 +2,7 @@
 
 ## 開催予定
 
-
+* 2019.09.21（土） [第4回 山陰CSIRT情報交換会](https://cmos.doorkeeper.jp/events/96645)
 
 ## 過去開催
 
